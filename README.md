@@ -4,7 +4,7 @@
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+git clone https://github.com/akinkebabci/kodluyoruzfirstrepository
 ```
 
 ## Usage
